@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Nhan</h1>
 <h3 align="center">A passionate game developer from Viet Nam</h3>
 
+<p align="center"> <img src="https://image.freepik.com/free-vector/computer-gaming-industry-cybersport-training-esports-coaching-lessons-with-pro-gamers-esports-coaching-platform-play-like-pro-concept_335657-822.jpg" alt="ntnhaan" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntnhaan" alt="ntnhaan" /></a> </p>
 
 - 🔭 I’m currently studying at [Thu Dau Mot University](https://www.facebook.com/thudaumotuniversity)
