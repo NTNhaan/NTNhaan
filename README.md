@@ -90,7 +90,7 @@
   <a href="https://www.youtube.com/channel/UChNdzcs1oOJqOvOAwJ4MQ-g" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-nh%C3%A2n-nguy%E1%BB%85n-6730002a7/" target="blank">
+  <a href="https://www.linkedin.com/in/nguyenthanh-nhan-6730002a7/?profileId=ACoAAEncc7cBRMuYiaobWp3LT45KROZCxTiZK2Y" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="https://www.instagram.com/thanhnhaann/" target="blank">
