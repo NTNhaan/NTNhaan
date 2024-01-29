@@ -1,10 +1,7 @@
 <!-- Thanhnhan -->
-<a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
-</a>
 
-<h1 align="center">Hi 👋, I'm Nguyen Thanh Nhan</h1>
-<h3 align="center">A passionate game developer from Viet Nam</h3>
+<h1 align="center">Hi Buddy 👋, I'm Nguyen Thanh Nhan</h1>
+<h3 align="center">A Software Engineer / Game Develope</h3>
 
 <p align="center"> <img src="https://image.freepik.com/free-vector/computer-gaming-industry-cybersport-training-esports-coaching-lessons-with-pro-gamers-esports-coaching-platform-play-like-pro-concept_335657-822.jpg" alt="ntnhaan" /> </p>
 
