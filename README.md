@@ -1,7 +1,7 @@
 <!-- Thanhnhan -->
 
 <h1 align="center">Hi Buddy 👋, I'm Nguyen Thanh Nhan</h1>
-<h3 align="center">A Software Engineer / Game Develope</h3>
+<h3 align="center">A Software Engineer / Game Developer</h3>
 
 <p align="center"> <img src="https://github.com/NTNhaan/NTNhaan/assets/153796947/3bc691c5-eeb0-4d7e-95ff-2129c8da3bda" alt="ntnhaan" /> </p>
 
