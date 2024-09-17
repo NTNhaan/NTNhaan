@@ -3,7 +3,7 @@
 <h1 align="center">Hi Buddy 👋, I'm Nguyen Thanh Nhan</h1>
 <h3 align="center">A Software Engineer / Game Developer</h3>
 
-<p align="center"> <img src="https://github.com/NTNhaan/NTNhaan/assets/153796947/3bc691c5-eeb0-4d7e-95ff-2129c8da3bda" alt="ntnhaan" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/83ac5bdf-8239-4a15-9b6a-93938e815337" alt="ntnhaan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntnhaan" alt="ntnhaan" /></a> </p>
 
